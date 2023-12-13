@@ -4,7 +4,9 @@ This is to publish our collection of towards rumor detection with multi-granular
 
 The dataset link is as follows:
 
-BaiDu Pan:
+BaiDu Pan: https://pan.baidu.com/s/1JxGhyXD_1Z3uAFkCPBrWpA 
+Extracted code: 3alv 
+
 
 Google Drive:
 
